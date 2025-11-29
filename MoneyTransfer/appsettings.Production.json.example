@@ -1,0 +1,19 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Warning",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "Default": "Server=YOUR_SERVER_NAME;Database=SendMoneyDemo;Integrated Security=True;TrustServerCertificate=True;"
+  },
+  "Cors": {
+    "AllowedOrigins": [
+      "https://yourdomain.com",
+      "http://yourdomain.com"
+    ]
+  }
+}
+

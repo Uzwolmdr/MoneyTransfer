@@ -1,0 +1,8 @@
+C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\wwwroot\vite.svg
+C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\wwwroot\assets\index-B_7KNwon.js
+C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\wwwroot\assets\index-DJef11d_.css
+C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\wwwroot\index.html
+wwwroot\assets\index-B_7KNwon.js
+wwwroot\assets\index-DJef11d_.css
+wwwroot\index.html
+wwwroot\vite.svg

@@ -1,0 +1,6 @@
+@MoneyTransfer_HostAddress = http://localhost:5047
+
+GET {{MoneyTransfer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

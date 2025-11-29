@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\assets\\index-B_7KNwon.js",
+      "PackagePath": "staticwebassets\\assets\\index-B_7KNwon.js"
+    },
+    {
+      "Id": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\assets\\index-DJef11d_.css",
+      "PackagePath": "staticwebassets\\assets\\index-DJef11d_.css"
+    },
+    {
+      "Id": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\vite.svg",
+      "PackagePath": "staticwebassets\\vite.svg"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MoneyTransfer.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.MoneyTransfer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.MoneyTransfer.props",
+      "PackagePath": "build\\MoneyTransfer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.MoneyTransfer.props",
+      "PackagePath": "buildMultiTargeting\\MoneyTransfer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.MoneyTransfer.props",
+      "PackagePath": "buildTransitive\\MoneyTransfer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

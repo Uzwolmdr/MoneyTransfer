@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "MoneyTransfer.Controllers.WalletController",
+    "Method": "GetContacts",
+    "RelativePath": "api/Wallet/contacts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoneyTransfer.Controllers.WalletController",
+    "Method": "Send",
+    "RelativePath": "api/Wallet/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "MoneyTransfer.Models.SendMoneyRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
