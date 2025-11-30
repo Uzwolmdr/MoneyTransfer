@@ -72,5 +72,6 @@ C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\bin\Debug\net9.0\runtime
 C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\bin\Debug\net9.0\MoneyTransfer.staticwebassets.runtime.json
 C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\obj\Debug\net9.0\compressed\aalb2ow0id-o5ehqdqt7e.gz
 C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\obj\Debug\net9.0\compressed\gcxwgtphok-na569lattl.gz
-C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\obj\Debug\net9.0\compressed\n70den2vhj-elk5ue2p8p.gz
 C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\obj\Debug\net9.0\compressed\9t5gipm0xs-69kjnsiwqx.gz
+C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\obj\Debug\net9.0\compressed\ev9r94lurk-gx1gudgifl.gz
+C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\obj\Debug\net9.0\compressed\n70den2vhj-n0q6qcwbjg.gz

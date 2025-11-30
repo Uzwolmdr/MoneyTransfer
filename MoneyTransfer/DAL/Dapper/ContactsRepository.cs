@@ -32,6 +32,63 @@
                 throw;
             }
         }
-    }
 
+        public async Task<IEnumerable<Balance>> GetAllBalance()
+        {
+            try
+            {
+                _logger.LogDebug("Retrieving all balances from database");
+
+                string sql = @"
+                    SELECT 
+                        c.Name,
+                        w.Balance AS Amount
+                    FROM Contacts c
+                    INNER JOIN Wallets w ON c.Id = w.Id
+                    ORDER BY c.Name ASC;
+        ";
+
+                var result = await _db.QueryAsync<Balance>(sql);
+
+                _logger.LogDebug("Retrieved {Count} balances", result.Count());
+                return result;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error retrieving balances from database");
+                throw;
+            }
+        }
+
+        public async Task<IEnumerable<TransactionDetails>> GetAllTransactionDetails()
+        {
+            try
+            {
+                _logger.LogDebug("Retrieving all transaction details from database");
+
+                string sql = @"
+            SELECT 
+                c1.Name AS SenderName,
+                c2.Name AS ReceiverName,
+                t.Amount
+            FROM Transactions t
+            INNER JOIN Contacts c1 ON c1.Id = t.SenderContactId
+            INNER JOIN Contacts c2 ON c2.Id = t.ReceiverContactId
+            ORDER BY t.Id DESC;
+        ";
+
+                var result = await _db.QueryAsync<TransactionDetails>(sql);
+
+                _logger.LogDebug("Retrieved {Count} transaction records", result.Count());
+                return result;
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error retrieving transaction details from database");
+                throw;
+            }
+        }
+
+
+    }
 }

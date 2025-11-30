@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "MYLhT8OWOlDTXek+4j87JQ1eNC1gB+tYhrXWzmnOluI=",
+  "Hash": "a0hxqpIVNk9pM5b1TNraCRVUjAeTHLxch6aTCic+Ltk=",
   "Source": "MoneyTransfer",
   "BasePath": "_content/MoneyTransfer",
   "Mode": "Default",
@@ -59,6 +59,27 @@
       "OriginalItemSpec": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\assets\\index-B_7KNwon.js"
     },
     {
+      "Identity": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\ev9r94lurk-gx1gudgifl.gz",
+      "SourceId": "MoneyTransfer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MoneyTransfer",
+      "RelativePath": "assets/index-BGsehVPu#[.{fingerprint=gx1gudgifl}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\assets\\index-BGsehVPu.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "q8mwe90w8s",
+      "Integrity": "ZjXiN6tKLFHY0jPcgWZPoFprI9+PqXAxiSbHtRO7D2s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\assets\\index-BGsehVPu.js"
+    },
+    {
       "Identity": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\gcxwgtphok-na569lattl.gz",
       "SourceId": "MoneyTransfer",
       "SourceType": "Discovered",
@@ -80,12 +101,12 @@
       "OriginalItemSpec": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\assets\\index-DJef11d_.css"
     },
     {
-      "Identity": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\n70den2vhj-elk5ue2p8p.gz",
+      "Identity": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\n70den2vhj-n0q6qcwbjg.gz",
       "SourceId": "MoneyTransfer",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/MoneyTransfer",
-      "RelativePath": "index#[.{fingerprint=elk5ue2p8p}]?.html.gz",
+      "RelativePath": "index#[.{fingerprint=n0q6qcwbjg}]?.html.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -94,8 +115,8 @@
       "RelatedAsset": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "du9s4phwyb",
-      "Integrity": "K0eVXppJsCH13O2GLbcczUJgBfcclN0/flRFYZp7rus=",
+      "Fingerprint": "w2375g3krm",
+      "Integrity": "WKBMnds37nFLY4eRGpVGW51HAkh5qofWoz3cwZ2zguM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\index.html"
@@ -120,6 +141,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\index-B_7KNwon.js"
+    },
+    {
+      "Identity": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\assets\\index-BGsehVPu.js",
+      "SourceId": "MoneyTransfer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\",
+      "BasePath": "_content/MoneyTransfer",
+      "RelativePath": "assets/index-BGsehVPu#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gx1gudgifl",
+      "Integrity": "xB/bcqlBnOI3WxKmzHIkfw4aW+9IuI5WsZBDusj9VmM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-BGsehVPu.js"
     },
     {
       "Identity": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\assets\\index-DJef11d_.css",
@@ -157,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "elk5ue2p8p",
-      "Integrity": "gi0IAp1MIrdO4npBTYVaQXr82as08q/9BwVUy/Ix5Zs=",
+      "Fingerprint": "n0q6qcwbjg",
+      "Integrity": "N5PwkjSj7RoZ7aTftaNd8k66DRmDFNT8ys79hT8bz8M=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
@@ -485,6 +527,304 @@
       ]
     },
     {
+      "Route": "assets/index-BGsehVPu.gx1gudgifl.js",
+      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\ev9r94lurk-gx1gudgifl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000012922067"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77386"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZjXiN6tKLFHY0jPcgWZPoFprI9+PqXAxiSbHtRO7D2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xB/bcqlBnOI3WxKmzHIkfw4aW+9IuI5WsZBDusj9VmM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gx1gudgifl"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BGsehVPu.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xB/bcqlBnOI3WxKmzHIkfw4aW+9IuI5WsZBDusj9VmM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BGsehVPu.gx1gudgifl.js",
+      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\assets\\index-BGsehVPu.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "239688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xB/bcqlBnOI3WxKmzHIkfw4aW+9IuI5WsZBDusj9VmM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gx1gudgifl"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BGsehVPu.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xB/bcqlBnOI3WxKmzHIkfw4aW+9IuI5WsZBDusj9VmM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BGsehVPu.gx1gudgifl.js.gz",
+      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\ev9r94lurk-gx1gudgifl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZjXiN6tKLFHY0jPcgWZPoFprI9+PqXAxiSbHtRO7D2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gx1gudgifl"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/index-BGsehVPu.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZjXiN6tKLFHY0jPcgWZPoFprI9+PqXAxiSbHtRO7D2s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BGsehVPu.js",
+      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\ev9r94lurk-gx1gudgifl.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000012922067"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77386"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZjXiN6tKLFHY0jPcgWZPoFprI9+PqXAxiSbHtRO7D2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"xB/bcqlBnOI3WxKmzHIkfw4aW+9IuI5WsZBDusj9VmM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xB/bcqlBnOI3WxKmzHIkfw4aW+9IuI5WsZBDusj9VmM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BGsehVPu.js",
+      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\assets\\index-BGsehVPu.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "239688"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xB/bcqlBnOI3WxKmzHIkfw4aW+9IuI5WsZBDusj9VmM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xB/bcqlBnOI3WxKmzHIkfw4aW+9IuI5WsZBDusj9VmM="
+        }
+      ]
+    },
+    {
+      "Route": "assets/index-BGsehVPu.js.gz",
+      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\ev9r94lurk-gx1gudgifl.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "77386"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZjXiN6tKLFHY0jPcgWZPoFprI9+PqXAxiSbHtRO7D2s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZjXiN6tKLFHY0jPcgWZPoFprI9+PqXAxiSbHtRO7D2s="
+        }
+      ]
+    },
+    {
       "Route": "assets/index-DJef11d_.css",
       "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\gcxwgtphok-na569lattl.gz",
       "Selectors": [
@@ -509,7 +849,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Nov 2025 12:57:41 GMT"
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -562,7 +902,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Nov 2025 12:57:41 GMT"
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -599,7 +939,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Nov 2025 12:57:41 GMT"
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -646,7 +986,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Nov 2025 12:57:41 GMT"
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -707,7 +1047,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Nov 2025 12:57:41 GMT"
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -752,7 +1092,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Nov 2025 12:57:41 GMT"
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -783,13 +1123,13 @@
       ]
     },
     {
-      "Route": "index.elk5ue2p8p.html",
-      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\n70den2vhj-elk5ue2p8p.gz",
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\n70den2vhj-n0q6qcwbjg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003389830508"
+          "Quality": "0.003401360544"
         }
       ],
       "ResponseHeaders": [
@@ -799,19 +1139,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "294"
+          "Value": "293"
         },
         {
           "Name": "ETag",
-          "Value": "\"K0eVXppJsCH13O2GLbcczUJgBfcclN0/flRFYZp7rus=\""
+          "Value": "\"WKBMnds37nFLY4eRGpVGW51HAkh5qofWoz3cwZ2zguM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Nov 2025 12:57:41 GMT"
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -827,26 +1167,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"gi0IAp1MIrdO4npBTYVaQXr82as08q/9BwVUy/Ix5Zs=\""
+          "Value": "W/\"N5PwkjSj7RoZ7aTftaNd8k66DRmDFNT8ys79hT8bz8M=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "elk5ue2p8p"
-        },
-        {
-          "Name": "label",
-          "Value": "index.html"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-gi0IAp1MIrdO4npBTYVaQXr82as08q/9BwVUy/Ix5Zs="
+          "Value": "sha256-N5PwkjSj7RoZ7aTftaNd8k66DRmDFNT8ys79hT8bz8M="
         }
       ]
     },
     {
-      "Route": "index.elk5ue2p8p.html",
+      "Route": "index.html",
       "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
@@ -864,11 +1196,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gi0IAp1MIrdO4npBTYVaQXr82as08q/9BwVUy/Ix5Zs=\""
+          "Value": "\"N5PwkjSj7RoZ7aTftaNd8k66DRmDFNT8ys79hT8bz8M=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Nov 2025 12:57:41 GMT"
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5PwkjSj7RoZ7aTftaNd8k66DRmDFNT8ys79hT8bz8M="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\n70den2vhj-n0q6qcwbjg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WKBMnds37nFLY4eRGpVGW51HAkh5qofWoz3cwZ2zguM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WKBMnds37nFLY4eRGpVGW51HAkh5qofWoz3cwZ2zguM="
+        }
+      ]
+    },
+    {
+      "Route": "index.n0q6qcwbjg.html",
+      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\n70den2vhj-n0q6qcwbjg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003401360544"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "293"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WKBMnds37nFLY4eRGpVGW51HAkh5qofWoz3cwZ2zguM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"N5PwkjSj7RoZ7aTftaNd8k66DRmDFNT8ys79hT8bz8M=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "n0q6qcwbjg"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-N5PwkjSj7RoZ7aTftaNd8k66DRmDFNT8ys79hT8bz8M="
+        }
+      ]
+    },
+    {
+      "Route": "index.n0q6qcwbjg.html",
+      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "459"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"N5PwkjSj7RoZ7aTftaNd8k66DRmDFNT8ys79hT8bz8M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -878,7 +1355,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "elk5ue2p8p"
+          "Value": "n0q6qcwbjg"
         },
         {
           "Name": "label",
@@ -886,13 +1363,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-gi0IAp1MIrdO4npBTYVaQXr82as08q/9BwVUy/Ix5Zs="
+          "Value": "sha256-N5PwkjSj7RoZ7aTftaNd8k66DRmDFNT8ys79hT8bz8M="
         }
       ]
     },
     {
-      "Route": "index.elk5ue2p8p.html.gz",
-      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\n70den2vhj-elk5ue2p8p.gz",
+      "Route": "index.n0q6qcwbjg.html.gz",
+      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\n70den2vhj-n0q6qcwbjg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -901,7 +1378,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "294"
+          "Value": "293"
         },
         {
           "Name": "Content-Type",
@@ -909,11 +1386,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K0eVXppJsCH13O2GLbcczUJgBfcclN0/flRFYZp7rus=\""
+          "Value": "\"WKBMnds37nFLY4eRGpVGW51HAkh5qofWoz3cwZ2zguM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 29 Nov 2025 12:57:41 GMT"
+          "Value": "Sat, 29 Nov 2025 13:32:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -931,7 +1408,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "elk5ue2p8p"
+          "Value": "n0q6qcwbjg"
         },
         {
           "Name": "label",
@@ -939,144 +1416,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-K0eVXppJsCH13O2GLbcczUJgBfcclN0/flRFYZp7rus="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\n70den2vhj-elk5ue2p8p.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003389830508"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "294"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"K0eVXppJsCH13O2GLbcczUJgBfcclN0/flRFYZp7rus=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 29 Nov 2025 12:57:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"gi0IAp1MIrdO4npBTYVaQXr82as08q/9BwVUy/Ix5Zs=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gi0IAp1MIrdO4npBTYVaQXr82as08q/9BwVUy/Ix5Zs="
-        }
-      ]
-    },
-    {
-      "Route": "index.html",
-      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\wwwroot\\index.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "459"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"gi0IAp1MIrdO4npBTYVaQXr82as08q/9BwVUy/Ix5Zs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 29 Nov 2025 12:57:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-gi0IAp1MIrdO4npBTYVaQXr82as08q/9BwVUy/Ix5Zs="
-        }
-      ]
-    },
-    {
-      "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\Debug\\net9.0\\compressed\\n70den2vhj-elk5ue2p8p.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "294"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"K0eVXppJsCH13O2GLbcczUJgBfcclN0/flRFYZp7rus=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 29 Nov 2025 12:57:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-K0eVXppJsCH13O2GLbcczUJgBfcclN0/flRFYZp7rus="
+          "Value": "sha256-WKBMnds37nFLY4eRGpVGW51HAkh5qofWoz3cwZ2zguM="
         }
       ]
     },

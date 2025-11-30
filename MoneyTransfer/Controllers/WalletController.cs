@@ -37,6 +37,38 @@
             }
         }
 
+        [HttpGet("balance")]
+        public async Task<IActionResult> GetBalance()
+        {
+            try
+            {
+                _logger.LogInformation("Retrieving all balance");
+                var result = await _contacts.GetAllBalance();
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error retrieving balance");
+                return StatusCode(500, new { error = "An error occurred while retrieving balance" });
+            }
+        }
+
+        [HttpGet("transactions_history")]
+        public async Task<IActionResult> GetTransactionHistory()
+        {
+            try
+            {
+                _logger.LogInformation("Retrieving transaction details");
+                var result = await _contacts.GetAllTransactionDetails();
+                return Ok(result);
+            }
+            catch (Exception ex)
+            {
+                _logger.LogError(ex, "Error retrieving transaction details");
+                return StatusCode(500, new { error = "An error occurred while retrieving transaction details" });
+            }
+        }
+
         [HttpPost("send")]
         public IActionResult Send([FromBody] SendMoneyRequest req)
         {

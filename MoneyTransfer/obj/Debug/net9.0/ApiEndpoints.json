@@ -1,6 +1,16 @@
 [
   {
     "ContainingType": "MoneyTransfer.Controllers.WalletController",
+    "Method": "GetBalance",
+    "RelativePath": "api/Wallet/balance",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoneyTransfer.Controllers.WalletController",
     "Method": "GetContacts",
     "RelativePath": "api/Wallet/contacts",
     "HttpMethod": "GET",
@@ -23,6 +33,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "MoneyTransfer.Controllers.WalletController",
+    "Method": "GetTransactionHistory",
+    "RelativePath": "api/Wallet/transactions_history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]
