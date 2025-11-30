@@ -22,6 +22,10 @@
                 using var cmd = new SqlCommand("SELECT ISNULL(Balance, 0) FROM Wallets WHERE ContactId = @id", transaction.Connection, transaction);
                 cmd.Parameters.AddWithValue("@id", contactId);
 
+                /*
+                 ExecuteScalar also blocks the thread but since it is a simple query, the blocking won't be affected
+                 If the operation is a high concurrency operation, ExecuteScalarAsync is preferred
+                */
                 var result = cmd.ExecuteScalar();
                 var balance = Convert.ToDecimal(result ?? 0);
                 
@@ -47,6 +51,11 @@
                 cmd.Parameters.AddWithValue("@b", newBalance);
                 cmd.Parameters.AddWithValue("@id", contactId);
 
+                /*
+                    Unlike Dapper's QueryAsync , ADO.NET ExecuteNonQuery() is synchronous
+                    It keeps the thread busy (blocked) until SQL Server finishes.
+                    If the operation is a high concurrency operation, ExecuteNonQueryAsync is preferred
+                */
                 var rowsAffected = cmd.ExecuteNonQuery();
                 if (rowsAffected == 0)
                 {

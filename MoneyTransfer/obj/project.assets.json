@@ -1790,11 +1790,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\MoneyTransfer.csproj",
+      "projectUniqueName": "D:\\MoneyTransfer\\MoneyTransfer\\MoneyTransfer.csproj",
       "projectName": "MoneyTransfer",
-      "projectPath": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\MoneyTransfer.csproj",
+      "projectPath": "D:\\MoneyTransfer\\MoneyTransfer\\MoneyTransfer.csproj",
       "packagesPath": "C:\\Users\\swift\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\swift\\source\\repos\\MoneyTransfer\\MoneyTransfer\\obj\\",
+      "outputPath": "D:\\MoneyTransfer\\MoneyTransfer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

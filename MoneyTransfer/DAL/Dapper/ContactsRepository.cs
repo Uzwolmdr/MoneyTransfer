@@ -22,6 +22,17 @@
             try
             {
                 _logger.LogDebug("Retrieving all contacts from database");
+                //Using QueryAsnyc pauses the method asynchronously i.e the thread is released to the main pool. It doesn't block the main thread.
+                //When the database finishes the query, the method resumes from the await point  using a different thread.
+                /*
+                    Thread starts DB query
+                    ↓
+                    Thread is freed (available for other requests!)
+                    ↓
+                    DB finishes
+                    ↓
+                    Method continues from await 
+                 */
                 var result = await _db.QueryAsync<Contact>("SELECT Id, Name, Phone FROM Contacts");
                 _logger.LogDebug("Retrieved {Count} contacts", result.Count());
                 return result;
@@ -48,6 +59,17 @@
                     ORDER BY c.Name ASC;
         ";
 
+                //Using QueryAsnyc pauses the method asynchronously i.e the thread is released to the main pool. It doesn't block the main thread.
+                //When the database finishes the query, the method resumes from the await point  using a different thread.
+                /*
+                    Thread starts DB query
+                    ↓
+                    Thread is freed (available for other requests!)
+                    ↓
+                    DB finishes
+                    ↓
+                    Method continues from await 
+                 */
                 var result = await _db.QueryAsync<Balance>(sql);
 
                 _logger.LogDebug("Retrieved {Count} balances", result.Count());
@@ -77,6 +99,17 @@
             ORDER BY t.Id DESC;
         ";
 
+                //Using QueryAsnyc pauses the method asynchronously i.e the thread is released to the main pool. It doesn't block the main thread.
+                //When the database finishes the query, the method resumes from the await point  using a different thread.
+                /*
+                    Thread starts DB query
+                    ↓
+                    Thread is freed (available for other requests!)
+                    ↓
+                    DB finishes
+                    ↓
+                    Method continues from await 
+                 */
                 var result = await _db.QueryAsync<TransactionDetails>(sql);
 
                 _logger.LogDebug("Retrieved {Count} transaction records", result.Count());

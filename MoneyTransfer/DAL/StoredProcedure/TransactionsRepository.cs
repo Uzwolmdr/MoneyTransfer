@@ -44,6 +44,10 @@ namespace MoneyTransfer.DAL.StoredProcedure
                     };
                     cmd.Parameters.Add(responseParam);
 
+                    /*
+                        Unlike Dapper's QueryAsync , ADO.NET ExecuteNonQuery() is synchronous
+                        It keeps the thread busy (blocked) until SQL Server finishes.
+                    */
                     cmd.ExecuteNonQuery();
 
                     int responseCode = (int)cmd.Parameters["@ResponseCode"].Value;

@@ -1,8 +1,8 @@
-C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\wwwroot\vite.svg
-C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\wwwroot\assets\index-B_7KNwon.js
-C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\wwwroot\assets\index-BGsehVPu.js
-C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\wwwroot\assets\index-DJef11d_.css
-C:\Users\swift\source\repos\MoneyTransfer\MoneyTransfer\wwwroot\index.html
+D:\MoneyTransfer\MoneyTransfer\wwwroot\vite.svg
+D:\MoneyTransfer\MoneyTransfer\wwwroot\assets\index-B_7KNwon.js
+D:\MoneyTransfer\MoneyTransfer\wwwroot\assets\index-BGsehVPu.js
+D:\MoneyTransfer\MoneyTransfer\wwwroot\assets\index-DJef11d_.css
+D:\MoneyTransfer\MoneyTransfer\wwwroot\index.html
 wwwroot\assets\index-B_7KNwon.js
 wwwroot\assets\index-BGsehVPu.js
 wwwroot\assets\index-DJef11d_.css
